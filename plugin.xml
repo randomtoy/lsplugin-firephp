@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">FirePhp Plugin</lang>
+	</name>
+	<author>
+		<lang name="default">codetoyz.ru (randomtoy@gmail.ru)</lang>
+	</author>
+	<homepage>http://codetoyz.ru/</homepage>
+	<version>0.1.0</version>
+	<requires>
+		<livestreet>0.5</livestreet>
+
+	</requires>
+	<description>
+		<lang name="default">FirePHP for Livestreet</lang>
+		<lang name="russian">Модуль FirePHP для Livestreet</lang>
+	</description>
+	<delegate>
+		<module></module>
+		<action></action>
+		<template></template>
+		<entity></entity>
+	</delegate>
+</plugin>
